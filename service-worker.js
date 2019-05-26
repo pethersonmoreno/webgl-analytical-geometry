@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/webgl-analytical-geometry/precache-manifest.cf55beae8c2e1c04dd8966d6ff7f3cfa.js"
+  "/webgl-analytical-geometry/precache-manifest.136e2d06fa3572b7345b505337ae1144.js"
 );
 
 self.addEventListener('message', (event) => {
