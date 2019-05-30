@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webgl-analytical-geometry/static/css/main.815ff6a0.chunk.css",
-    "main.js": "/webgl-analytical-geometry/static/js/main.ec3fe2cb.chunk.js",
-    "main.js.map": "/webgl-analytical-geometry/static/js/main.ec3fe2cb.chunk.js.map",
+    "main.js": "/webgl-analytical-geometry/static/js/main.60e2a97c.chunk.js",
+    "main.js.map": "/webgl-analytical-geometry/static/js/main.60e2a97c.chunk.js.map",
     "runtime~main.js": "/webgl-analytical-geometry/static/js/runtime~main.fe18eb35.js",
     "runtime~main.js.map": "/webgl-analytical-geometry/static/js/runtime~main.fe18eb35.js.map",
-    "static/js/2.d6d43ef9.chunk.js": "/webgl-analytical-geometry/static/js/2.d6d43ef9.chunk.js",
-    "static/js/2.d6d43ef9.chunk.js.map": "/webgl-analytical-geometry/static/js/2.d6d43ef9.chunk.js.map",
+    "static/js/2.8663a755.chunk.js": "/webgl-analytical-geometry/static/js/2.8663a755.chunk.js",
+    "static/js/2.8663a755.chunk.js.map": "/webgl-analytical-geometry/static/js/2.8663a755.chunk.js.map",
     "index.html": "/webgl-analytical-geometry/index.html",
-    "precache-manifest.136e2d06fa3572b7345b505337ae1144.js": "/webgl-analytical-geometry/precache-manifest.136e2d06fa3572b7345b505337ae1144.js",
+    "precache-manifest.00cf826cb5a63f9fb4a1ccd745deb20b.js": "/webgl-analytical-geometry/precache-manifest.00cf826cb5a63f9fb4a1ccd745deb20b.js",
     "service-worker.js": "/webgl-analytical-geometry/service-worker.js",
     "static/css/main.815ff6a0.chunk.css.map": "/webgl-analytical-geometry/static/css/main.815ff6a0.chunk.css.map"
   }
